@@ -3,12 +3,12 @@
 # Transfer Learning
 Transfer learning (TL) is a research problem in machine learning (ML) that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem.
 
-![](StarWars\screenshots\Capture5.jpg)
+![]("https://github.com/harishiker99/StarWars/blob/master/screenshots/Capture5.jpg")
 
-No. of classes: 2 <br>
-Name of class: 1.Sith 2. Jedi
+<strong>No. of classes: 2 <br>
+Name of class: 1.Sith 2. Jedi </strong>
 
-<img src="screenshots\Capture.jpg">
+<img src="https://github.com/harishiker99/StarWars/blob/master/screenshots/Capture.JPG">
 
 # Convolutional Neural Network
 A CNN consists of a number of convolutional and subsampling layers optionally followed by fully connected layers. 
@@ -16,13 +16,13 @@ The input to a convolutional layer is a m x m x r image where m is the height an
 The figure below illustrates a full layer in a CNN consisting of convolutional and subsampling sublayers. They consist of shared weights.
 After the convolutional layers there may be any number of fully connected layers. The densely connected layers are identical to the layers in a standard multilayer neural network.
 
-<img src="screenshots\Capture4.jpg">
+<img src="https://github.com/harishiker99/StarWars/blob/master/screenshots/Capture4.jpg">
 
 # Architecture used: ResNet-34
 # Learning rate: a range of values from 0.00001 to 0.001
 
-<img src="screenshots\Capture3.jpg">
+<img src="https://github.com/harishiker99/StarWars/blob/master/screenshots/Capture3.JPG">
 
 # Result: 85% accuracy over 10 epochs
 
-<img src="screenshots\Capture2.jpg">
+<img src="https://github.com/harishiker99/StarWars/blob/master/screenshots/Capture2.JPG">
