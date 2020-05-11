@@ -18,6 +18,11 @@ After the convolutional layers there may be any number of fully connected layers
 <img src="https://github.com/harishiker99/StarWars/blob/master/screenshots/Capture4.jpg">
 
 # Architecture used: ResNet-34
+All pre-trained models expect input images normalized in the same way, i.e. mini-batches of 3-channel RGB images of shape (3 x H x W), where H and W are expected to be at least 224. The images have to be loaded in to a range of [0, 1] and then normalized using mean = [0.485, 0.456, 0.406] and std = [0.229, 0.224, 0.225].
+Resnet models were proposed in “Deep Residual Learning for Image Recognition”. Here we have the 5 versions of resnet models, which contains 5, 34, 50, 101, 152 layers respectively. Detailed model architectures can be found in Table 1. Their 1-crop error rates on imagenet dataset with pretrained models are listed below.
+
+<img src="https://github.com/harishiker99/StarWars/blob/master/screenshots/Capture6.JPG">
+
 # Learning rate: a range of values from 0.00001 to 0.001
 
 <img src="https://github.com/harishiker99/StarWars/blob/master/screenshots/Capture3.JPG">
