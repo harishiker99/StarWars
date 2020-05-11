@@ -4,10 +4,9 @@
 Transfer learning (TL) is a research problem in machine learning (ML) that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem.
 
 ![]("https://github.com/harishiker99/StarWars/blob/master/screenshots/Capture5.jpg")
-
 <strong>No. of classes: 2 <br>
-Name of class: 1.Sith 2. Jedi </strong>
-
+  Name of the classes: <ol><li>Sith</li><li>Jedi</li></ol></strong>
+  
 <img src="https://github.com/harishiker99/StarWars/blob/master/screenshots/Capture.JPG">
 
 # Convolutional Neural Network
